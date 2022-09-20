@@ -1,0 +1,11 @@
+div.gallery {
+    display: grid;
+    grid-template-columns: 250px 250px;
+    border: black solid 3px;
+    width: 90%;
+    justify-content: center;
+}
+
+.gallery img {
+    width: 250px;
+}
